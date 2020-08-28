@@ -1,0 +1,8 @@
+¿qué es js?
+Cómo nace js, de la necesidad de cambiar las páginas web
+dejaran de ser tan estáticas, para hacerlas más modernas y dinámicas para poder interactuar con el contenido y empezar a crear contenido también en las páginas web de otro, a esto se le llama JavaScrip que es un lenguaje que está orientado a trabajar de una manera en la web.
+"Lenguaje interpretado orientado a objetos, tipado y dinámico"
+Débilmente tipado ya que teine errores mínimo entre variables.
+Es dinámico, se divide en 3 faces : escribe, compile time y runtime. En la primera face escribes lenguje humano, luego lo copila y luego lo traduce al navegador patra correrlo.
+Lenguaje interpretado ya que se tiene que interpretar de primer momento, y luego lo copila, al momento de copilarlo. 
+--->Forward: sre compatible con versiones futuras singfinca que incluir una adición al lenguaje en un programa no causaría que este se rompa si se ejecuta en un motor Js anterior, osea que se mantiene en uso para versiones futuras.
