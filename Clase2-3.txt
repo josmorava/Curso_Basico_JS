@@ -1,0 +1,6 @@
+¿Por qué js?
+está entre los 3 lenguajes estándarés: css, html, js.
+
+-> CLASE 3
+- Elemnetos de un leguaje de programación:
+Data que se guarda en memoria y tareas que haremos con esa data.
