@@ -1,0 +1,2 @@
+//Scope --> ScopeGlobal y ScopeLocal, el local está dentro del global. Solo lo que está dentro de la función será utilizado dentro de la misma.
+//Se pueden acceder a los datos de Scope local a global más no de manera inversa, lo que quiere decir que dentro de una funcion se puede acceder a datos o variables declaradas fuera de esta (lo que vendrian siendo datos globales), pero desde Global no puede accederse a datos declarados en una funcion (lo que vendría sinedo el Scope Local) 
