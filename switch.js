@@ -15,7 +15,7 @@ switch(numero){
 }
 //El break es importante es cada caso.
 
-//Reto: juego de piedra, papel y tijeras con switch., ejemplo hecho pero no funcionó.
+//Reto: juego de piedra, papel y tijeras con switch, primer intento hecho pero no funcionó.
 
 var piedra = 1
 var papel = 2
