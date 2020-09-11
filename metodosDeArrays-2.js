@@ -12,7 +12,7 @@ var encuentraArticulo = articulos.find(function(articulo){
     return articulo.nombre === "Laptop" 
  }); // Nuevo array que va a buscar un articulo llamado "Laptop"
 
- //Filtrado del array principal sin modificar el principal mientra que muestra cosas.
+ //Metodo forEach Filtrado del array principal sin modificar el principal mientra que muestra cosas.
 articulos.forEach(function(articulo){
     console.log(articulo.nombre)
 })
